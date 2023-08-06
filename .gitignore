@@ -10,8 +10,16 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
+*/build
 /captures
 .externalNativeBuild
 .cxx
 local.properties
 kotlin-js-store
+.idea
+build
+captures
+xcuserdata/
+Pods/
+*.jks
+*yarn.lock
