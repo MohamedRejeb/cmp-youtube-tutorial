@@ -1,0 +1,11 @@
+{
+  "name": "MyKmpApp-common",
+  "version": "0.0.0-unspecified",
+  "main": "MyKmpApp-common.js",
+  "types": "MyKmpApp-common.d.ts",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
