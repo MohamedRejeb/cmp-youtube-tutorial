@@ -1,7 +1,8 @@
-# Compose Multiplatform from Scratch - Understanding the structure
+# How to Make a Clean Architecture App with Kotlin and Compose Multiplatform
 
 ## Introduction
 
-This is a project made in the Compose Multiplatform from Scratch youtube tutorial series. The goal of this project is to show how to create a multiplatform project from scratch, and how to share code between the platforms. The project is a simple app that shows a list of movies and their details. The app is made with Compose Multiplatform and Kotlin Multiplatform.
+In this tutorial, you'll learn to make a Clean Architecture App with Kotlin and Compose Multiplatform!
+We will focus on the Clean Architecture and how it works with Multiplatform projects.
 
-Video Link: https://youtu.be/HpfFu2nl32s
+Video Link: https://www.youtube.com/watch?v=_UCmtFK0fAI
